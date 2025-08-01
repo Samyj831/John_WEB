@@ -1,6 +1,3 @@
-// Simple Express server for portfolio API
-// Runs on Node.js v20.18.0 (LTS)
-
 import express from "express"
 import cors from "cors"
 import fs from "fs/promises"

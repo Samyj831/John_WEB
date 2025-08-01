@@ -55,7 +55,7 @@ export function Navigation({ activeSection, onSectionChange }: NavigationProps) 
           className="text-xl font-bold text-primary cursor-pointer"
           onClick={() => scrollToSection("home")}
         >
-          Samy The Office Designer
+          The Office Designer
         </motion.div>
 
         {/* Desktop Navigation */}

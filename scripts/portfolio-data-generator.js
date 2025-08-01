@@ -1,6 +1,3 @@
-// Node.js script to generate portfolio data
-// This would run on Node.js v20.18.0 (LTS)
-
 import fs from "fs/promises"
 import path from "path"
 
