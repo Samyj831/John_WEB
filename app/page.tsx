@@ -110,7 +110,7 @@ export default function HomePage() {
               transition={{ duration: 0.8, delay: 0.2 }}
               className="space-y-6"
             >
-              <h1 className="text-4xl md:text-6xl font-bold text-foreground">Samy The Office Designer</h1>
+              <h1 className="text-4xl md:text-6xl font-bold text-foreground">The Office Designer</h1>
               <p className="text-xl md:text-2xl text-muted-foreground max-w-2xl mx-auto">
                 Creating designs that are more professional than Michael's management style
                 <br />
